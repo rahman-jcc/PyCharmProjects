@@ -94,3 +94,5 @@ try:
 
 except IOError:
     print ("Error: can\'t find file or read data")
+
+    # added extra comments
